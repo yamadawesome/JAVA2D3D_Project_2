@@ -10,7 +10,7 @@ import java.util.List;
  *       phi(r) = exp(-cr^2)
  *       phi(r) = r
  *       phi(r) = r^3 
- * 今回は３Dなのでr^3を使用する
+ * 今回はr^3を使用する
  */
 public class RBF{
 

@@ -52,7 +52,7 @@ public class PointCloudViewer2 {
     private static final String DATA_PATH = "../xyz/armadillo.xyz";
 
     public static void main(String[] args) {
-        new PointCloudViewer().run();
+        new PointCloudViewer2().run();
     }
 
     public void run() {

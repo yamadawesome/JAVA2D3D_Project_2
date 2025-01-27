@@ -96,3 +96,6 @@ public class RBF{
     }
 }
 
+/* REFERENCE
+ * https://yuki-koyama.hatenablog.com/entry/2014/05/04/132552
+ */

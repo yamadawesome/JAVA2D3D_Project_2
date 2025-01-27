@@ -364,3 +364,12 @@ public class PointCloudViewer2 {
         return out;
     }
 }
+
+/* 
+ * REFERENCE
+ * https://www.lwjgl.org/guide
+ * https://www.glfw.org/docs/latest/window_guide.html
+ * https://www.glfw.org/docs/latest/input_guide.html
+ * https://zenryokuservice.com/wp/2020/05/05/java-3d-lwjgl-〜tutorial-1-windowを表示する〜/
+ * 
+ */
